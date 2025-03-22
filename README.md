@@ -1,10 +1,10 @@
 <h2 align="center">
   React Portfolio Website<br/>
-  <a href="https://your-deployed-portfolio-link.com" target="_blank">Live Demo</a>
+  <a href="https://github.com/Divyadharshini308/react-portfolio" target="_blank">Live Demo</a>
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo Screenshot" src="./Images/portfolio.png" />
 </div>
 
 <br/>
@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Divyadharshini308/react-portfolio/issues">Report Bug</a> |
-  <a href="https://github.com/Divyadharshini308/react-portfolio/issues">Request Feature</a>
+  🔹 <a href="https://github.com/Divyadharshini308/react-portfolio/issues">Report Bug</a> &nbsp; | &nbsp;
+  🔹 <a href="https://github.com/Divyadharshini308/react-portfolio/issues">Request Feature</a>
 </p>
 
 ---
@@ -31,22 +31,22 @@ It is fully responsive and easy to customize.
 
 ## 🚀 Tech Stack
 
-- React.js
-- CSS3 / React-Bootstrap
-- Node.js (for future enhancements)
-- Visual Studio Code
-- Git & GitHub
+- React.js  
+- CSS3 / React-Bootstrap  
+- Node.js (for future enhancements)  
+- Visual Studio Code  
+- Git & GitHub  
 - Vercel (for deployment)
 
 ---
 
 ## 📂 Features
 
-- 💻 Multi-section scrollable layout (Home, About, Skills, Projects, Contact)
-- 🎨 Stylish UI with responsive design
-- 📱 Mobile-friendly
-- 📄 Resume download option
-- 📩 Contact form
+- 💻 Multi-section scrollable layout (Home, About, Skills, Projects, Contact)  
+- 🎨 Stylish UI with responsive design  
+- 📱 Mobile-friendly design  
+- 📄 Resume download option  
+- 📩 Contact form  
 
 ---
 
