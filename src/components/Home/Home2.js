@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/Projects/girl.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,12 +19,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+               I’m a passionate <b className="purple"> Web Developer </b> who is always curious about exploring new technologies and trends in the tech world. I specialize in building dynamic, scalable, and user-centric web applications. Whenever possible, I love to apply my skills to develop impactful products using Node.js and modern JavaScript libraries and frameworks like React.js and Next.js.
+             </i>
+              <br />
+              <br />"I’m sharpening my problem-solving skills with algorithm and studying scalable
+              <i>
+                <b className="purple">  system design </b> principles".
               </i>
               <br />
               <br />
@@ -33,23 +34,12 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Machine Learning.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +57,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/Divyadharshini308"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,19 +65,10 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
+              
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/divya-dharshini-bb86a1293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -95,16 +76,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
+             
             </ul>
           </Col>
         </Row>
